@@ -10,3 +10,5 @@ const Kmainimage =
 
 final TextStyle khometextstyle =
     TextStyle(fontSize: 14, fontWeight: FontWeight.bold);
+
+const ImageappendUrl = "https://image.tmdb.org/t/p/w500";
